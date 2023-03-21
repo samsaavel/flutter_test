@@ -1,0 +1,1 @@
+// empty file; propose default content at the author
